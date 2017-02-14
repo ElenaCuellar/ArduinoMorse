@@ -1,7 +1,7 @@
 # Piano en Arduino
 
 El proyecto se compone de:    
-+ Archivo .ino
++ Archivo .ino (en la carpeta 'piano')
 + Proyecto en Android
 
  ## Funcionalidad    
